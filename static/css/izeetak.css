@@ -4560,13 +4560,13 @@ canvas {
 
 .team-one__social {
     position: absolute;
-    display: flex;
+    /* display: flex; */
     -webkit-box-align: center;
     align-items: center;
     justify-content: center;
     bottom: 20px;
-    right: 0;
-    left: 0;
+    right: 20px;
+    left: 20px;
     transform: scaleY(0.0);
     transform-origin: center;
     transform-style: preserve-3d;
